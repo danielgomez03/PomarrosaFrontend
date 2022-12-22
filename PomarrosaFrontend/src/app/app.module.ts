@@ -5,12 +5,16 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { WelcomePageComponent } from './welcome-page/welcome-page.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
+import { CarrouselComponent } from './carrousel/carrousel.component';
+import { WelcomeMessageComponent } from './welcome-message/welcome-message.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     WelcomePageComponent,
-    NavBarComponent
+    NavBarComponent,
+    CarrouselComponent,
+    WelcomeMessageComponent
   ],
   imports: [
     BrowserModule,
