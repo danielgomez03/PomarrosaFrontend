@@ -9,8 +9,6 @@
     height: 100%;
     margin-left: -225px;
     background-color: #744404;
-    /* background: rgb(190,112,6);
-    background: linear-gradient(0deg, rgba(190,112,6,1) 0%, rgba(190,112,6,0.006039915966386533) 47%); */
     -webkit-transition: all .5s ease;
     -moz-transition: all .5s ease;
     -o-transition: all .5s ease;
@@ -110,3 +108,11 @@
     background: #744404 !important;
     color: #fff !important;
 }
+
+.a1{
+    color:rgb(190,112,6);
+    background-color: white;
+    width: 105%;
+    height: 54px;
+    text-align: center;
+  }

@@ -8,6 +8,7 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { CarrouselComponent } from './carrousel/carrousel.component';
 import { WelcomeMessageComponent } from './welcome-message/welcome-message.component';
 import { SlidenavComponent } from './slidenav/slidenav.component';
+import { AboutUsPageComponent } from './about-us-page/about-us-page.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { SlidenavComponent } from './slidenav/slidenav.component';
     NavBarComponent,
     CarrouselComponent,
     WelcomeMessageComponent,
-    SlidenavComponent
+    SlidenavComponent,
+    AboutUsPageComponent
   ],
   imports: [
     BrowserModule,
