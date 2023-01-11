@@ -10,6 +10,10 @@ import { WelcomeMessageComponent } from './welcome-message/welcome-message.compo
 import { SlidenavComponent } from './slidenav/slidenav.component';
 import { AboutUsPageComponent } from './about-us-page/about-us-page.component';
 import { AboutUsMessageComponent } from './about-us-message/about-us-message.component';
+import { ContactUsPageComponent } from './contact-us-page/contact-us-page.component';
+import { OpinionsPageComponent } from './opinions-page/opinions-page.component';
+import { ContactFormComponent } from './contact-form/contact-form.component';
+import { BottomBannerComponent } from './bottom-banner/bottom-banner.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +25,10 @@ import { AboutUsMessageComponent } from './about-us-message/about-us-message.com
     SlidenavComponent,
     AboutUsPageComponent,
     AboutUsMessageComponent,
+    ContactUsPageComponent,
+    OpinionsPageComponent,
+    ContactFormComponent,
+    BottomBannerComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,7 +1,12 @@
 .title{
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     margin: 0%;
+}
+
+.titlebox{
+    border: 100px;
+    border-color: black;
 }
 
 .message{
@@ -12,3 +17,13 @@
     padding-top: 0;
     text-align: center;
 }
+
+  
+  .box {
+    float: left;
+    margin-right: 15px;
+    width: 660px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: rgb(207,232,220);
+  }
