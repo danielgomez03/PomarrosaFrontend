@@ -9,6 +9,7 @@ import { CarrouselComponent } from './carrousel/carrousel.component';
 import { WelcomeMessageComponent } from './welcome-message/welcome-message.component';
 import { SlidenavComponent } from './slidenav/slidenav.component';
 import { AboutUsPageComponent } from './about-us-page/about-us-page.component';
+import { AboutUsMessageComponent } from './about-us-message/about-us-message.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { AboutUsPageComponent } from './about-us-page/about-us-page.component';
     CarrouselComponent,
     WelcomeMessageComponent,
     SlidenavComponent,
-    AboutUsPageComponent
+    AboutUsPageComponent,
+    AboutUsMessageComponent,
   ],
   imports: [
     BrowserModule,
