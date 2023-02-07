@@ -1,0 +1,12 @@
+.bgdani{
+  background: rgb(190,112,6);
+  background: linear-gradient(90deg, rgba(190, 113, 6, 0.034) 60%, rgba(173, 103, 4, 0.726) 100%);
+}
+
+.a1{
+  color:rgb(190,112,6);
+}
+
+.bgcanvas{
+  background: rgb(190,112,6);
+}
