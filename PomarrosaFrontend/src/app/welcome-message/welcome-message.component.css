@@ -1,0 +1,60 @@
+.content{
+    /* border: 5px solid black; */
+    height: 1000px;
+    width: auto;
+}
+
+.header{
+    /* border: 5px solid black; */
+    width: auto;
+    height: 200px;
+    display: flex;
+}
+
+.title{
+    /* border: 5px solid black; */
+    text-align: center;
+    display: flex;
+    margin: 0 auto 126px;
+    padding: 0;
+}
+
+.sub-title{
+    /* border: 5px solid black; */
+    margin: 0 auto 326px;
+    padding: 0;
+    position: absolute;
+    top: 61%;
+    left: 27%;
+    
+}
+
+.body-content{
+    /* border: 5px solid black; */
+    width: 100%;
+    max-width: 1894px;
+    height: 790px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+
+.info-offers{
+    /* border: 5px solid black; */
+    padding: 1rem 1rem;
+    margin: 2.4rem;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.info-newProduct{
+    /* border: 5px solid black; */
+    padding: 1rem 1rem;
+    margin: 3rem;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
