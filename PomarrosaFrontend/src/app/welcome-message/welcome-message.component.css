@@ -15,7 +15,7 @@
     /* border: 5px solid black; */
     text-align: center;
     display: flex;
-    margin: 0 auto 126px;
+    margin: 30px auto 126px;
     padding: 0;
 }
 
@@ -49,10 +49,14 @@
     vertical-align: middle;
 }
 
+.new-products{
+    /* border: 5px solid black; */
+}
+
 .info-newProduct{
     /* border: 5px solid black; */
     padding: 1rem 1rem;
-    margin: 3rem;
+    margin-left: 13%;
     width: 300px;
     height: 300px;
     display: inline-block;
